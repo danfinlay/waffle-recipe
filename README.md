@@ -8,15 +8,18 @@ I am using a [Cuisinart WAF-V100](https://www.cuisinart.com/shopping/appliances/
 
 ## Recipe
 
-2 eggs
-1 1/2 cups all-purpose flour
-1/2 cup coconut flour
-1 3/4 cups milk or water (could probably use other liquids)
-1/2 cup vegetable oil
-1 tablespoon white sugar
-4 teaspoons baking powder
-1/4 teaspoon salt
-1/2 teaspoon vanilla extract
+- 2 eggs
+- 1 cup whole wheat flour
+- 1/2 cup banana flour
+- 1/4 cup coconut flour
+- 1/8 cup pea protein
+- 1/8 cup oatmeal
+- 1 3/4 cups milk or water (could probably use other liquids)
+- 1/2 cup vegetable oil
+- 1 tablespoon brown sugar
+- 4 teaspoons baking powder
+- 1/4 teaspoon salt
+- 1/2 teaspoon vanilla extract
 
 Add water/milk as needed to thin to a pourable level.
 
